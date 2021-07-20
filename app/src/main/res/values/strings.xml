@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LoginCadastro</string>
+    <string name="content_description_end_icon">usuario</string>
+    <string name="vpn">vpn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="entrar">Entrar</string>
+    <string name="redefinir_senha">Redefinir Senha</string>
+    <string name="Home">Home</string>
+    <string name="redefinir">Redefinir</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="usuario">Usuario</string>
+    <string name="username">Username</string>
+    <string name="enviar_e_mail_de_redefini_o_de_senha">Enviar e-mail de redefinição de senha</string>
+    <string name="todo">TODO</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone_celular">Telefone/Celular</string>
+    <string name="senha">Senha</string>
+    <string name="digite_novamente">Digite novamente</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="login">Login</string>
+    <string name="esqueceu_a_senha_clique_aqui">Esqueceu a senha ? Clique aqui.</string>
+    <string name="exercic_os">Exercicíos</string>
+    <string name="forum">Forum</string>
+    <string name="aulas">Aulas</string>
+</resources>
